@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ozobeide.github.io/sitemap_index.ozobeide
